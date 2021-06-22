@@ -1,0 +1,5 @@
+.test-class {
+    font-size: 30px;
+    font-weight: bold;
+    color: var(--custom-global-variable);
+}
